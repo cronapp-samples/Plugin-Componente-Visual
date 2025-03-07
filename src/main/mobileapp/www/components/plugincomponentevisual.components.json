@@ -1,0 +1,22 @@
+{
+    "name": "crn-plugincomponentevisual",
+    "text": "plugin_componente_visual",
+    "image": "/node_modules/cronapp-framework-mobile-js/img/cron-icon/crn-plugin.svg",
+    "description": "plugin_componente_visual",
+    "description_en_US": "plugin_componente_visual",
+    "category": [
+        "PLUGINS"
+    ],
+    "templateURL": "${webcontent}/components/templates/plugincomponentevisual.template.html",
+    "properties": {
+        "class": {
+            "order": 9999
+        },
+        "id": {
+            "order": 1
+        }
+    },
+    "attributesForPreview": [],
+    "childrenProperties": [],
+    "styles": []
+}
